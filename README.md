@@ -1,1 +1,3 @@
-# Book-Store-intern task
+# Book-Store-
+backend for bookstore with CRUD operations 
+
